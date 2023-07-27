@@ -1,5 +1,9 @@
 # Phase 3 Project Guidelines
 
+
+My frontend link: https://github.com/len-nie/the-gallery-ruby-app-frontend
+
+
 ## Learning Goals
 
 - Build a web basic API with Sinatra and Active Record to support a React
