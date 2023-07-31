@@ -49,4 +49,7 @@ group :test do
   gem "rack-test", "~> 1.1"
   gem "rspec", "~> 3.10"
   gem "rspec-json_expectations", "~> 2.2"
+  gem 'shotgun', '~> 0.9.2'
+
+
 end
