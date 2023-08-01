@@ -51,6 +51,7 @@ group :test do
   gem "rspec-json_expectations", "~> 2.2"
   gem 'shotgun', '~> 0.9.2'
   gem 'bcrypt'
+  gem 'rack-flash3'
 
 
 end

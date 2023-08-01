@@ -42,6 +42,8 @@ GEM
       rack (~> 2.0)
     rack-cors (1.1.1)
       rack (>= 2.0.0)
+    rack-flash3 (1.0.5)
+      rack
     rack-protection (2.1.0)
       rack
     rack-test (1.1.0)
@@ -99,6 +101,7 @@ DEPENDENCIES
   pry (~> 0.14.1)
   rack-contrib (~> 2.3)
   rack-cors (~> 1.1)
+  rack-flash3
   rack-test (~> 1.1)
   rake (~> 13.0)
   require_all (~> 3.0)
