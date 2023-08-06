@@ -10,7 +10,12 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2023_08_01_111312) do
+ActiveRecord::Schema.define(version: 2023_08_06_200343) do
+
+  create_table "photos", force: :cascade do |t|
+    t.text "image"
+    t.boolean "purchase"
+  end
 
   create_table "users", force: :cascade do |t|
     t.string "username"
